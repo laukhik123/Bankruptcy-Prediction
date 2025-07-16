@@ -1,27 +1,27 @@
-# Bankruptcy Prediction 📉🏦
+# Bankruptcy Prediction 
 
 A machine learning project designed to predict the likelihood of a company's bankruptcy based on financial and categorical indicators.
 
-## 🚀 Features
+##  Features
 
 - Preprocessed and normalized real-world financial datasets
 - Engineered features to enhance model performance
 - Applied classification models to predict bankruptcy risk
 - Evaluated model with metrics like accuracy, precision, and ROC-AUC
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas, NumPy
 - scikit-learn
 - Matplotlib, Seaborn
 
-## 📷 Screenshots
+##  Screenshots
 
 <!-- Add charts such as ROC curve, confusion matrix, or feature importance here -->
 <!-- Example: ![ROC Curve](./screenshots/roc_curve.png) -->
 
-## 📦 How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/laukhik123/Bankruptcy-Prediction
